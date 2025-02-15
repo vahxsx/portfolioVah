@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <section id="projects" className="projects">
       <div className="projects-container">
-        <h2>Projects</h2>
+        <h2>My Projects</h2>
         <div className="projects-list">
           <a
             href="https://yourproject1.com"
@@ -17,7 +17,7 @@ const Projects = () => {
             <p>Smartphones and accessories</p>
           </a>
           <a
-            href="https://yourproject2.com"
+            href="https://yourprojectvah2.com"
             target="_blank"
             rel="noopener noreferrer"
             className="project-item"
